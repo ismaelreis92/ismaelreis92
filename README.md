@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋, I'm Ismael Reis
 
-<!--
-**ismaelreis92/ismaelreis92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏾‍🎓 **ADS student**
 
-Here are some ideas to get you started:
+👨🏾‍🎓 **Eletrical enginnering student**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🇧🇷 Brazil
+
+I am a beginner student in the field of embedded systems, with an interest in learning how software and hardware work together. I am currently developing my skills in low-level programming and microcontroller-based projects.
+
+I also have basic knowledge of SQL databases, including writing simple queries and understanding how structured data is organized and managed.
+
+---
+
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/ismaelreis92">
+    <img src="https://img.shields.io/badge/GitHub-ismaelreis92-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/ismaelreis92">
+    <img src="https://img.shields.io/badge/Instagram-@ISMAELREIS92-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧠 What I do
+
+- ⚡ Home automation
+- 🤖 Automation
+- 📊 Dashboards and analytics
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ismaelreis92&show_icons=true&theme=tokyonight&count_private=true" />
+  
+</p>
+
+---
