@@ -17,10 +17,6 @@ I also have basic knowledge of SQL databases, including writing simple queries a
 <p align="left">
   <a href="https://github.com/ismaelreis92">
     <img src="https://img.shields.io/badge/GitHub-ismaelreis92-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://instagram.com/ismaelreis92">
-    <img src="https://img.shields.io/badge/Instagram-@ISMAELREIS92-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 </p>
 
 ---
